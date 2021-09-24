@@ -12,9 +12,9 @@ Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com
 
 ## 🖱️ Layout
 
-Você pode visualizar o layout do projeto através do link abaixo:
+Você pode visualizar o projeto hospedado no link abaixo:
 
-- [Layout Web](https://www.figma.com/community/file/1009824839797878169/Letmeask)
+- [Projeto hospedado](https://letmeask-69419.web.app/)
 
 ## 🔖 Curso realizado na plataforma [Rocketseat](https://rocketseat.com.br/)
 
